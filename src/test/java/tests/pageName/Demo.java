@@ -1,10 +1,10 @@
-package tests;
+package tests.pageName;
 
 import org.testng.annotations.Test;
 import pages.Common;
-import utils.Driver;
+import tests.BaseTest;
 
-public class Demo  extends BaseTest{
+public class Demo  extends BaseTest {
 
     @Test
     public void openGoogle(){

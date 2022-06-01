@@ -1,6 +1,6 @@
 package pages;
 
-import utils.Driver;
+import utilities.Driver;
 
 public class Common {
 
